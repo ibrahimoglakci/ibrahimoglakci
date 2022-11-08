@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">I am a Software Developer from Turkey</h3>
-<img align="right" alt="coding" widht="400px" height="400px" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
+<img align="right" alt="coding" widht="400px" height="400px" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimoglakci" /> </p>
