@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="right" alt="coding" widht="400px" height="400px" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="center" alt="coding" widht="400px" height="400px" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimoglakci" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimoglakci" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimoglakci" alt="ibrahimoglakci" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimoglakci" alt="ibrahimoglakci" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oglakcibey" target="blank"><img src="https://img.shields.io/twitter/follow/oglakcibey?logo=twitter&style=for-the-badge" alt="oglakcibey" /></a> </p>
 
