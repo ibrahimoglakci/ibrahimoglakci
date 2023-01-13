@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="center" alt="coding" widht="100%" height="100%" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="center" alt="coding" widht="1000px" height="100%" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimoglakci" /> </p>
 
