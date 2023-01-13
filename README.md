@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ibrahimoglakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimoglakci" height="30" width="40" /></a>
-<a href="https://twitter.com/oglakcibey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimoglakci5" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/developer-iho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimoglakci" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahim.oglakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koduzayi" height="30" width="40" /></a>
-<a href="https://medium.com/@ibrahimoglakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahimoglakcia" height="30" width="40" /></a>
+<a href="https://codepen.io/ibrahimoglakci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimoglakci" height="30" width="40" /></a>
+<a href="https://twitter.com/oglakcibey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimoglakci5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-iho/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimoglakci" height="30" width="40" /></a>
+<a href="https://instagram.com/ibrahim.oglakci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koduzayi" height="30" width="40" /></a>
+<a href="https://medium.com/@ibrahimoglakci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahimoglakcia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +30,7 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimoglakci&show_icons=true&locale=en&layout=compact" alt="ibrahimoglakci" /></p>-->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimoglakci&show_icons=true&locale=en" alt="ibrahimoglakci" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimoglakci&show_icons=true&locale=en" alt="ibrahimoglakci" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimoglakci&" alt="ibrahimoglakci" /></p>
 
