@@ -39,4 +39,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ibrahim.oglakci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ibrahim.oglakci" /></a></p><br><br>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimoglakci&" alt="ibrahimoglakci" /></p>
+<p><img align="center" width="100%" style="top: 15px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimoglakci&" alt="ibrahimoglakci" /></p>
