@@ -17,11 +17,11 @@
 
 - 🤝 I’m looking for help with **New Languages**
 
-- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.cf](https://ibrahimoglakci.cf)
+- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.dev](https://ibrahimoglakci.cf)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **info@ibrahimoglakci.com**
+- 📫 How to reach me **contact@ibrahimoglakci.dev**
 
 - ⚡ Fun fact **I think I'm so funny**
 
