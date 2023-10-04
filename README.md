@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **New Languages**
 
-- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.dev](https://ibrahimoglakci.cf)
+- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.com](https://ibrahimoglakci.com)
 
 - 💬 Ask me about **Web Development**
 
