@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **contact@ibrahimoglakci.dev**
+- 📫 How to reach me **contact@ibrahimoglakci.com**
 
 - ⚡ Fun fact **I think I'm so funny**
 
