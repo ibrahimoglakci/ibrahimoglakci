@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/oglakcibey" target="blank"><img src="https://img.shields.io/twitter/follow/oglakcibey?logo=twitter&style=for-the-badge" alt="oglakcibey" /></a> </p>
 
-- 🔭 I’m currently working on **Event Page**
+- 🔭 I’m currently working on **[VeMedya](https://vemedya.com)**
 
 - 🌱 I’m currently learning **React and Python**
 
