@@ -12,19 +12,13 @@
 
 - 🔭 I’m currently working on **[VeMedya](https://vemedya.com)**
 
-- 🌱 I’m currently learning **React and Python**
+- 👯 I’m looking to collaborate on **your projects**
 
-- 👯 I’m looking to collaborate on **your company**
-
-- 🤝 I’m looking for help with **New Languages**
-
-- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.com](https://ibrahimoglakci.com)
+- 👨‍💻 All of my projects are available at [https://ibrahimoglakci.dev](https://ibrahimoglakci.dev)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **contact@ibrahimoglakci.com**
-
-- ⚡ Fun fact **I think I'm so funny**
+- 📫 How to reach me **contact@ibrahimoglakci.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
