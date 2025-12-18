@@ -26,14 +26,14 @@
 
 ---
 
-### 🐍 Contribution Snake Game
+### Contribution Snake Game
 <p align="center">
   <img src="https://github.com/ibrahimoglakci/ibrahimoglakci/blob/output/github-contribution-grid-snake.svg" alt="snake-game-animation" />
 </p>
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+### The Arsenal (Tech Stack)
 
 My favorite tools and technologies for solving modern problems.
 
@@ -45,7 +45,7 @@ My favorite tools and technologies for solving modern problems.
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 Numbers don't lie, and neither does code. Here are some stats.
 
@@ -63,18 +63,18 @@ Numbers don't lie, and neither does code. Here are some stats.
 
 ---
 
-### ⚡ Random Dev Fact
+### Random Dev Fact
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Joke" width="60%" />
 </p>
 
 ---
 
-### 🔭 Current Focus & Connect
+### Current Focus & Connect
 
-- 🏢 **Currently working on:** [VeMedya](https://vemedya.com) and corporate SaaS solutions.
-- 🌱 **Learning:** Local LLM Models, AI Agent Architectures, and IoT (Home Assistant).
-- 💬 **Ask me about:** Laravel Optimization, Modular Monoliths, Vue 3 Composition API.
+- **Currently working on:** [VeMedya](https://vemedya.com) and corporate SaaS solutions.
+- **Learning:** Local LLM Models, AI Agent Architectures, and IoT (Home Assistant).
+- **Ask me about:** Laravel Optimization, Modular Monoliths, Vue 3 Composition API.
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ibrahim.oglakci" target="_blank">
