@@ -26,9 +26,9 @@
 
 ---
 
-### Contribution Snake Game
+### Contribution Snake
 <p align="center">
-  <img src="https://github.com/ibrahimoglakci/ibrahimoglakci/blob/output/github-contribution-grid-snake.svg" alt="snake-game-animation" />
+  <img src="https://raw.githubusercontent.com/ibrahimoglakci/ibrahimoglakci/output/github-contribution-grid-snake.svg" alt="snake-game-animation" />
 </p>
 
 ---
