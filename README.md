@@ -1,80 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Oglakci</h1>
-<h3 align="center">Full-Stack Web Developer | Laravel Expert | Vue & JS Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ibrahim;Senior+Full+Stack+Developer;Laravel+%26+Vue.js+Expert;Crafting+Digital+Architectures" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>Code Architect | Problem Solver | Tech Enthusiast</h3>
+</div>
 
 <p align="center">
-  <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding" width="100%" />
+ I am a passionate developer coding from <b>Gaziantep</b> to the world, powered by coffee and obsessed with clean code.
+ <br/>
+ I build projects that respect <b>traditional architecture</b> while embracing <b>modern technologies</b>.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### 🧠 About Me
-
-I’m a passionate and experienced web developer from Turkey, specialized in **Laravel**, **PHP**, and **modern JavaScript frameworks** such as **Vue.js** and **React**.
-
-I build robust, scalable, and secure web applications with a deep understanding of backend architecture and front-end interactivity. I care about clean code, developer experience, and pixel-perfect user interfaces.
-
-- 🔭 Currently working on: **[VeMedya](https://vemedya.com)**  
-- 🌍 Website & Portfolio: [ibrahimoglakci.dev](https://ibrahimoglakci.dev)  
-- 💬 Ask me about: `Laravel`, `Vue.js`, `Inertia`, `REST APIs`, `SaaS apps`  
-- 📫 Reach me at: **contact@ibrahimoglakci.dev**
-
----
-
-### 🛠️ Tech Stack
-
-#### Backend
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-
-#### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimoglakci" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ibrahimoglakci&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://ibrahimoglakci.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ibrahimoglakci.dev-blue?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+  <a href="mailto:contact@ibrahimoglakci.dev">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/developer-iho">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://codepen.io/ibrahimoglakci" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-  <a href="https://twitter.com/oglakci_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/developer-iho" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/oglakci.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+### 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/ibrahimoglakci/ibrahimoglakci/blob/output/github-contribution-grid-snake.svg" alt="snake-game-animation" />
 </p>
 
 ---
 
-### ☕ Support Me
+### 🛠️ The Arsenal (Tech Stack)
 
-<p>
+My favorite tools and technologies for solving modern problems.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,vue,react,tailwind,sass,vite&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman&theme=dark" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+Numbers don't lie, and neither does code. Here are some stats.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimoglakci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimoglakci&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimoglakci&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### ⚡ Random Dev Fact
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Joke" width="60%" />
+</p>
+
+---
+
+### 🔭 Current Focus & Connect
+
+- 🏢 **Currently working on:** [VeMedya](https://vemedya.com) and corporate SaaS solutions.
+- 🌱 **Learning:** Local LLM Models, AI Agent Architectures, and IoT (Home Assistant).
+- 💬 **Ask me about:** Laravel Optimization, Modular Monoliths, Vue 3 Composition API.
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/ibrahim.oglakci" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" >
   </a>
 </p>
